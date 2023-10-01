@@ -1,3 +1,6 @@
 #!/usr/bin/node
-class Rectangle { }
+
+// 0-rectangle.js
+class Rectangle {}
+
 module.exports = Rectangle;
